@@ -107,7 +107,7 @@ var assignmentsArray = [
   // border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden
  
   
-  var assignList = document.getElementById("JS-all-assignments");
+  var assignmentsList = document.getElementById("JS-all-assignments");
   
   for (var i = 0; i < assignmentsArray.length; i++) {
     var div =
@@ -166,7 +166,7 @@ var assignmentsArray = [
   </div>`;
   
   var contact = ''
-    assignList.innerHTML += div;
+    assignmentsList.innerHTML += div;
   }
 
 
