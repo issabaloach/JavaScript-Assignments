@@ -104,18 +104,18 @@ var assignmentsArray = [
 
 
 
-
+  // border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden
  
   
   var assignList = document.getElementById("all-assignments");
   
   for (var i = 0; i < assignmentsArray.length; i++) {
     var div =
-     ` <div class=" p-4 md:w-1/3">
+     ` <div class=" p-4 md:w-1/3 ">
     <div
-      class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden"
+      class="h-full  ml-8 mt-5 bg-gradient-to-r from-purple-400 to-blue-500 hover:from-pink-500 hover:to-purple-600 text-white font-bold py-3 px-6 rounded-full shadow-lg transform transition-all duration-500 ease-in-out hover:scale-110 hover:brightness-110 hover:animate-pulse active:animate-bounce "
     >
-      <div class="bg-[#581c87] p-6">
+      <div class="bg-[#581c87] p-6 ">
         <h1 class="title-font text-lg font-medium text-white mb-3">
          ${assignmentsArray[i].title} 
         </h1>
