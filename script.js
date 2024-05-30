@@ -1,8 +1,8 @@
 var assignmentsArray = [
     {
         title: "Cards ForEach",
-        code: "https://issabaloach.github.io/JavaScript-/AttendancePortal/index.html",
-        link: "https://issabaloach.github.io/JavaScript-/AttendancePortal/index.html",
+        code: "https://issabaloach.github.io/JavaScript-/ForEach%20Method/index.html",
+        link: "https://issabaloach.github.io/JavaScript-/ForEach%20Method/index.html",
         date: "29-May-2024",
         description: "Cards in forEach method which is used for Array and we make a gallery like cards where edit and delete button appears and it's all about Array ForEach",
       },
