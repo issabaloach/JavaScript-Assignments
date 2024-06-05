@@ -1,4 +1,12 @@
 var assignmentsArray = [
+ 
+  {
+    title: "Notes - LocalStorage",
+    code: "https://github.com/issabaloach/JavaScript-/tree/main/LocalStorage-Notes",
+    link: " https://issabaloach.github.io/JavaScript-/LocalStorage-Notes/index.html",
+    date: "05-june-2024",
+    description: "This is the notes app, that have log in form and with great UI, and here the data being saved in Local Storage of Website ",
+  },
     {
         title: "Cards ForEach",
         code: "https://issabaloach.github.io/JavaScript-/ForEach%20Method/index.html",
