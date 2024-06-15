@@ -1,6 +1,13 @@
 var assignmentsArray = [
  
   {
+    title: "E-Commerce Website using Filter",
+    code: "https://github.com/issabaloach/JavaScript-/tree/main/E-commerce-Filter",
+    link: "https://issabaloach.github.io/JavaScript-/E-commerce-Filter/index.html",
+    date: "15-june-2024",
+    description: "e commerce website where user can see as a category to select product, add new product and add to cart for buying",
+  },
+  {
     title: "Notes - LocalStorage",
     code: "https://github.com/issabaloach/JavaScript-/tree/main/LocalStorage-Notes",
     link: " https://issabaloach.github.io/JavaScript-/LocalStorage-Notes/index.html",
