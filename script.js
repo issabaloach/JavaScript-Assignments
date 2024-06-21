@@ -1,5 +1,12 @@
 var assignmentsArray = [
- 
+
+  {
+    title: "Weather App",
+    code: "https://github.com/issabaloach/Prodigy_WD_1",
+    link: "https://issabaloach.github.io/Prodigy_WD_1/",
+    date: "19-june-2024",
+    description: "This weather app fetch the weather API from openweather and this changes background image on every discription change ",
+  },
   {
     title: "E-Commerce Website using Filter",
     code: "https://github.com/issabaloach/JavaScript-/tree/main/E-commerce-Filter",
